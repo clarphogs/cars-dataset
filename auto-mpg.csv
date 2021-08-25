@@ -46,10 +46,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 24,4,113,95,2278,15.5,72,3,toyota corona hardtop
 25,4,97.5,80,2126,17,72,1,dodge colt hardtop
 23,4,97,54,2254,23.5,72,2,volkswagen type 3
-20,4,140,90,2408,19.5,72,1,chevrolet vega
-21,4,122,86,2226,16.5,72,1,ford pinto runabout
-13,8,350,165,4274,12,72,1,chevrolet impala
-14,8,400,175,4385,12,72,1,pontiac catalina
 15,8,318,150,4135,13.5,72,1,plymouth fury iii
 14,8,351,153,4129,13,72,1,ford galaxie 500
 17,8,304,150,3672,11.5,72,1,amc ambassador sst
@@ -80,9 +76,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 13,8,400,150,4464,12,73,1,chevrolet caprice classic
 13,8,351,158,4363,13,73,1,ford ltd
 14,8,318,150,4237,14.5,73,1,plymouth fury gran sedan
-13,8,440,215,4735,11,73,1,chrysler new yorker brougham
-12,8,455,225,4951,11,73,1,buick electra 225 custom
-13,8,360,175,3821,11,73,1,amc ambassador brougham
 18,6,225,105,3121,16.5,73,1,plymouth valiant
 16,6,250,100,3278,18,73,1,chevrolet nova custom
 18,6,232,100,2945,16,73,1,amc hornet
@@ -101,8 +94,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 19,4,122,85,2310,18.5,73,1,ford pinto
 21,6,155,107,2472,14,73,1,mercury capri v6
 26,4,98,90,2265,15.5,73,2,fiat 124 sport coupe
-15,8,350,145,4082,13,73,1,chevrolet monte carlo s
-16,8,400,230,4278,9.5,73,1,pontiac grand prix
 29,4,68,49,1867,19.5,73,2,fiat 128
 24,4,116,75,2158,15.5,73,2,opel manta
 20,4,114,91,2582,14,73,2,audi 100ls
@@ -118,10 +109,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 31,4,79,67,1950,19,74,3,datsun b210
 26,4,122,80,2451,16.5,74,1,ford pinto
 32,4,71,65,1836,21,74,3,toyota corolla 1200
-25,4,140,75,2542,17,74,1,chevrolet vega
-16,6,250,100,3781,17,74,1,chevrolet chevelle malibu classic
-16,6,258,110,3632,18,74,1,amc matador
-18,6,225,105,3613,16.5,74,1,plymouth satellite sebring
 16,8,302,140,4141,14,74,1,ford gran torino
 13,8,350,150,4699,14.5,74,1,buick century luxus (sw)
 14,8,318,150,4457,13.5,74,1,dodge coronet custom (sw)
@@ -138,13 +125,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 24,4,120,97,2489,15,74,3,honda civic
 26,4,108,93,2391,15.5,74,3,subaru
 31,4,79,67,2000,16,74,2,fiat x1.9
-19,6,225,95,3264,16,75,1,plymouth valiant custom
-18,6,250,105,3459,16,75,1,chevrolet nova
-15,6,250,72,3432,21,75,1,mercury monarch
-15,6,250,72,3158,19.5,75,1,ford maverick
-16,8,400,170,4668,11.5,75,1,pontiac catalina
-15,8,350,145,4440,14,75,1,chevrolet bel air
-20,8,262,110,3221,13.5,75,1,chevrolet monza 2+2
 13,8,302,129,3169,12,75,1,ford mustang ii
 29,4,97,75,2171,16,75,3,toyota corolla
 23,4,140,83,2639,17,75,1,ford pinto
@@ -209,9 +189,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 19,6,225,100,3630,17.7,77,1,plymouth volare custom
 18.5,6,250,98,3525,19,77,1,ford granada
 16,8,400,180,4220,11.1,77,1,pontiac grand prix lj
-15.5,8,350,170,4165,11.4,77,1,chevrolet monte carlo landau
-15.5,8,400,190,4325,12.2,77,1,chrysler cordoba
-16,8,351,149,4335,14.5,77,1,ford thunderbird
 29,4,97,78,1940,14.5,77,2,volkswagen rabbit custom
 24.5,4,151,88,2740,16,77,1,pontiac sunbird coupe
 26,4,97,75,2265,18.2,77,3,toyota corolla liftback
@@ -255,14 +232,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 31.5,4,89,71,1990,14.9,78,2,volkswagen scirocco
 29.5,4,98,68,2135,16.6,78,3,honda accord lx
 21.5,6,231,115,3245,15.4,79,1,pontiac lemans v6
-19.8,6,200,85,2990,18.2,79,1,mercury zephyr 6
-22.3,4,140,88,2890,17.3,79,1,ford fairmont 4
-20.2,6,232,90,3265,18.2,79,1,amc concord dl 6
-20.6,6,225,110,3360,16.6,79,1,dodge aspen 6
-17,8,305,130,3840,15.4,79,1,chevrolet caprice classic
-17.6,8,302,129,3725,13.4,79,1,ford ltd landau
-16.5,8,351,138,3955,13.2,79,1,mercury grand marquis
-18.2,8,318,135,3830,15.2,79,1,dodge st. regis
 16.9,8,350,155,4360,14.9,79,1,buick estate wagon (sw)
 15.5,8,351,142,4054,14.3,79,1,ford country squire (sw)
 19.2,8,267,125,3605,15,79,1,chevrolet malibu classic (sw)
