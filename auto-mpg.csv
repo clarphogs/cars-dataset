@@ -61,7 +61,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 13,8,350,175,4100,13,73,1,buick century 350
 14,8,304,150,3672,11.5,73,1,amc matador
 13,8,350,145,3988,13,73,1,chevrolet malibu
-16,6,250,100,3278,18,73,1,chevrolet nova custom
 18,6,232,100,2945,16,73,1,amc hornet
 18,6,250,88,3021,16.5,73,1,ford maverick
 23,6,198,95,2904,16,73,1,plymouth duster
