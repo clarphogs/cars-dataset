@@ -131,9 +131,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 29,4,90,70,1937,14.2,76,2,vw rabbit
 33,4,91,53,1795,17.4,76,3,honda civic
 20,6,225,100,3651,17.7,76,1,dodge aspen se
-18,6,250,78,3574,21,76,1,ford granada ghia
-18.5,6,250,110,3645,16.2,76,1,pontiac ventura sj
-17.5,6,258,95,3193,17.8,76,1,amc pacer d/l
 29.5,4,97,71,1825,12.2,76,2,volkswagen rabbit
 32,4,85,70,1990,17,76,3,datsun b-210
 28,4,97,75,2155,16.4,76,3,toyota corolla
@@ -156,9 +153,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 29,4,97,78,1940,14.5,77,2,volkswagen rabbit custom
 24.5,4,151,88,2740,16,77,1,pontiac sunbird coupe
 26,4,97,75,2265,18.2,77,3,toyota corolla liftback
-25.5,4,140,89,2755,15.8,77,1,ford mustang ii 2+2
-30.5,4,98,63,2051,17,77,1,chevrolet chevette
-33.5,4,98,83,2075,15.9,77,1,dodge colt m/m
 30,4,97,67,1985,16.4,77,3,subaru dl
 30.5,4,97,78,2190,14.1,77,2,volkswagen dasher
 22,6,146,97,2815,14.5,77,3,datsun 810
@@ -171,17 +165,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 36.1,4,91,60,1800,16.4,78,3,honda civic cvcc
 19.9,8,260,110,3365,15.5,78,1,oldsmobile cutlass salon brougham
 19.4,8,318,140,3735,13.2,78,1,dodge diplomat
-20.5,6,225,100,3430,17.2,78,1,plymouth volare
-19.4,6,232,90,3210,17.2,78,1,amc concord
-20.6,6,231,105,3380,15.8,78,1,buick century special
-20.8,6,200,85,3070,16.7,78,1,mercury zephyr
-18.6,6,225,110,3620,18.7,78,1,dodge aspen
-18.1,6,258,120,3410,15.1,78,1,amc concord d/l
-19.2,8,305,145,3425,13.2,78,1,chevrolet monte carlo landau
-17.7,6,231,165,3445,13.4,78,1,buick regal sport coupe (turbo)
-18.1,8,302,139,3205,11.2,78,1,ford futura
-17.5,8,318,140,4080,13.7,78,1,dodge magnum xe
-30,4,98,68,2155,16.5,78,1,chevrolet chevette
 27.5,4,134,95,2560,14.2,78,3,toyota corona
 27.2,4,119,97,2300,14.7,78,3,datsun 510
 30.9,4,105,75,2230,14.5,78,1,dodge omni
@@ -195,11 +178,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 16.2,6,163,133,3410,15.8,78,2,peugeot 604sl
 31.5,4,89,71,1990,14.9,78,2,volkswagen scirocco
 29.5,4,98,68,2135,16.6,78,3,honda accord lx
-21.5,6,231,115,3245,15.4,79,1,pontiac lemans v6
-16.9,8,350,155,4360,14.9,79,1,buick estate wagon (sw)
-15.5,8,351,142,4054,14.3,79,1,ford country squire (sw)
-19.2,8,267,125,3605,15,79,1,chevrolet malibu classic (sw)
-18.5,8,360,150,3940,13,79,1,chrysler lebaron town @ country (sw)
 31.9,4,89,71,1925,14,79,2,vw rabbit custom
 34.1,4,86,65,1975,15.2,79,3,maxda glc deluxe
 35.7,4,98,80,1915,14.4,79,1,dodge colt hatchback custom
@@ -217,10 +195,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 38.1,4,89,60,1968,18.8,80,3,toyota corolla tercel
 32.1,4,98,70,2120,15.5,80,1,chevrolet chevette
 37.2,4,86,65,2019,16.4,80,3,datsun 310
-28,4,151,90,2678,16.5,80,1,chevrolet citation
-26.4,4,140,88,2870,18.1,80,1,ford fairmont
-24.3,4,151,90,3003,20.1,80,1,amc concord
-19.1,6,225,90,3381,18.7,80,1,dodge aspen
 34.3,4,97,78,2188,15.8,80,2,audi 4000
 29.8,4,134,90,2711,15.5,80,3,toyota corona liftback
 31.3,4,120,75,2542,17.5,80,3,mazda 626
@@ -273,6 +247,4 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 38,4,91,67,1965,15,82,3,honda civic
 32,4,91,67,1965,15.7,82,3,honda civic (auto)
 38,4,91,67,1995,16.2,82,3,datsun 310 gx
-26,4,156,92,2585,14.5,82,1,chrysler lebaron medallion
-22,6,232,112,2835,14.7,82,1,ford granada l
 32,4,144,96,2665,13.9,82,3,toyota celica gt
