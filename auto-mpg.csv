@@ -1,6 +1,5 @@
 mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_name
 17,8,302,140,3449,10.5,70,1,ford torino
-15,8,429,198,4341,10,70,1,ford galaxie 500
 14,8,454,220,4354,9,70,1,chevrolet impala
 14,8,440,215,4312,8.5,70,1,plymouth fury iii
 14,8,455,225,4425,10,70,1,pontiac catalina
